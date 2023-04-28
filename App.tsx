@@ -1,7 +1,11 @@
-import {StyleSheet, Text} from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
 
 function App(): JSX.Element {
-  return <Text>test0</Text>;
+  return (
+    <View>
+      <Text>tes7</Text>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({
