@@ -4,7 +4,7 @@ import {StyleSheet, Text, View} from 'react-native/types';
 function App(): JSX.Element {
   return (
     <View>
-      <Text>test2</Text>
+      <Text>test3</Text>
     </View>
   );
 }
