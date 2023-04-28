@@ -1,12 +1,8 @@
-import React from 'react';
-import {StyleSheet, Text, View} from 'react-native/types';
+import {StyleSheet, Text} from 'react-native';
 
 function App(): JSX.Element {
-  return (
-    <View>
-      <Text>test2</Text>
-    </View>
-  );
+  return <Text>test0</Text>;
+
 }
 
 const styles = StyleSheet.create({
