@@ -3,7 +3,7 @@ import {StyleSheet, Text, View} from 'react-native';
 function App(): JSX.Element {
   return (
     <View>
-      <Text>tes8</Text>
+      <Text>sub</Text>
     </View>
   );
 }
