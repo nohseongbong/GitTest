@@ -2,7 +2,6 @@ import {StyleSheet, Text} from 'react-native';
 
 function App(): JSX.Element {
   return <Text>test0</Text>;
-
 }
 
 const styles = StyleSheet.create({
